@@ -1,8 +1,8 @@
 #include <QCoreApplication>
 #include <windows.h>
 
-#define BOX_WIDTH 400
-#define BOX_HEIGHT 400
+#define BOX_WIDTH 480
+#define BOX_HEIGHT 360
 #define TIMEOUT 40
 #define STEP 2
 
