@@ -1,8 +1,5 @@
-QT -= gui
-
-CONFIG += c++11 console
-CONFIG -= app_bundle
-
+QT += core gui
+CONFIG += c++11
 DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
